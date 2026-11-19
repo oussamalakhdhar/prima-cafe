@@ -2,6 +2,20 @@
   "name": "prima-cafe",
   "private": true,
   "version": "1.0.0",
+  "description": "Premium website for PRIMA CAFÉ, a specialty coffee house in Les Berges du Lac, Tunis.",
+  "keywords": [
+    "coffee",
+    "cafe",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "vite"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oussamalakhdhar/prima-cafe.git"
+  },
+  "homepage": "https://github.com/oussamalakhdhar/prima-cafe#readme",
   "type": "module",
   "scripts": {
     "dev": "vite",
