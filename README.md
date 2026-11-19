@@ -135,6 +135,8 @@ Replace the sample details in `src/data/site.ts`:
 - Founders' names and quotes in `src/pages/About.tsx` and `src/data/testimonials.ts`
 - The domain `primacafe.tn` in `index.html`, `public/sitemap.xml` and `public/robots.txt`
 
-## License
+## Author and license
 
-This is a private project: the brand identity, copy and photography were produced for PRIMA CAFÉ. Add a `LICENSE` file if you intend to open-source it.
+**Oussama Lakhdhar** — sole developer, author and owner of this project.
+
+Copyright © 2026 Oussama Lakhdhar. All rights reserved. The source code, brand identity, written content and photography in this repository may not be copied, redistributed or used without written permission — see [LICENSE](LICENSE) for the full terms. Third-party libraries keep their own licenses.

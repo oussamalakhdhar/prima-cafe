@@ -16,6 +16,8 @@
     "url": "git+https://github.com/oussamalakhdhar/prima-cafe.git"
   },
   "homepage": "https://github.com/oussamalakhdhar/prima-cafe#readme",
+  "author": "Oussama Lakhdhar <oussamalak66@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
   "type": "module",
   "scripts": {
     "dev": "vite",
